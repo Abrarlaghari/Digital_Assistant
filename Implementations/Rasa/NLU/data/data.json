@@ -1,0 +1,723 @@
+{
+    "information_Comparison": {
+        "entities": {
+            "billing state": [
+                "What is the billing state inactive and active?",
+                "What's the difference between network and billing states?",
+                "What is the difference between billing states and network states?",
+                "What is the difference between network connectivity and billing states?",
+                "What is the difference between inactive and active billing states?",
+                "How can I distinguish between billing state active and inactive?",
+                "What is the difference between billing and network?",
+                "What is the difference between billing and network states?",
+                "What is the difference between billing state active and inactive?",
+                "How do I distinguish between billing state active and inactive?",
+                "What is the difference between network and billing states?",
+                "What's the difference between billing states and network states?",
+                "What are the billing states active and inactive?",
+                "Is billing state active or inactive?",
+                "How do you distinguish between billing state active and inactive?",
+                "What is billing state active and inactive?"
+            ],
+            "imei": [
+                "What is the difference between imei and msisdn?",
+                "Can you compare imei and msisdn?",
+                "What is the comparison between imei and msisdn?",
+                "What is the difference between msisdn and imei?",
+                "How can I compare imei and msisdn?"
+            ],
+            "msisdn": [
+                "What is the difference between imei and msisdn?",
+                "Can you compare imei and msisdn?",
+                "What is the comparison between imei and msisdn?",
+                "What is the difference between msisdn and imei?",
+                "How can I compare imei and msisdn?"
+            ],
+            "summary counter": [
+                "What is the difference between column filter and summary counter?",
+                "How do I differentiate between summary counters and column filters?",
+                "How do you differentiate between summary counters and column filters?",
+                "What are the differences between summary counters and column filters?",
+                "What are summary counters and column filters?"
+            ],
+            "column filter": [
+                "What is the difference between column filter and summary counter?",
+                "How do I differentiate between summary counters and column filters?",
+                "How do you differentiate between summary counters and column filters?",
+                "What are the differences between summary counters and column filters?",
+                "What are summary counters and column filters?"
+            ],
+            "network connectivity": [
+                "What's the difference between network and billing states?",
+                "What is the difference between billing states and network states?",
+                "What is the difference between network connectivity and billing states?",
+                "Why is network connectivity disabled?",
+                "What is the difference between billing and network?",
+                "What is the difference between billing and network states?",
+                "How can I differentiate between network connectivity enabled and disabled?",
+                "Is network connectivity enabled or disabled?",
+                "How do I differentiate between network connectivity enabled and disabled?",
+                "What is the difference between network and billing states?",
+                "What's the difference between billing states and network states?",
+                "Can we distinguish between network connectivity enabled and disabled?",
+                "What is the difference between network connectivity and connectivity lock?",
+                "What is the difference between network connectivity enabled and disabled?",
+                "Can you please tell me difference between network connectivity and connectivity lock?",
+                "Can you differentiate between network connectivity enabled and disabled?"
+            ],
+            "sim": [
+                "What is the difference between sim and euicc?",
+                "What are the differences between sim and euicc?",
+                "What's the difference between sim and euicc?"
+            ],
+            "euicc": [
+                "What is the difference between sim and euicc?",
+                "What are the differences between sim and euicc?",
+                "What's the difference between sim and euicc?"
+            ],
+            "row": [
+                "What is the difference between the rows, which one should I choose?"
+            ],
+            "view": [
+                "What is the difference between the rows, which one should I choose?"
+            ],
+            "connectivity lock": [
+                "What is the difference between network connectivity and connectivity lock?",
+                "Can you please tell me difference between network connectivity and connectivity lock?"
+            ]
+        }
+    },
+    "Learn": {
+        "entities": {
+            "imsi": [
+                "how to select more than 10000 imsi",
+                "How do you select more than 10000 imsi?",
+                "How do I select more than 10000 imsi cards?",
+                "How can I get more than 10000 imsi?",
+                "How do I select more than 10000 imsi?",
+                "How do I select 10000 imsi?"
+            ],
+            "filter": [
+                "I want to add/apply/create a filter",
+                "How do I add/apply filters?",
+                "What is the best way to add filters?",
+                "How do I create filters?",
+                "I want to add/apply/create filter.",
+                "How do I apply filters?",
+                "How do I create filters?",
+                "How can I add/create a filter?",
+                "How can I add/apply/create filters?",
+                "I want to add/apply/create filters",
+                "How do I create filter?",
+                "I want to add/apply/create filter?",
+                "How can I apply a filter?",
+                "How do I add/apply filters?",
+                "How do I add filters?",
+                "How to add/apply/create filters?",
+                "How do I apply a filter?",
+                "How do I add/create a filter?",
+                "How do I add/apply filters?",
+                "How do I create a filter?",
+                "How do I add/apply/create a filter?",
+                "How do I add/apply/create filters?",
+                "How can I add/apply/create filter?",
+                "How do you add filters?",
+                "How do you add filters?",
+                "How do I apply filters?",
+                "How can I add filters?",
+                "What is the best way to apply filter?",
+                "How can I add a filter?",
+                "How can I apply filter?",
+                "I want to add/apply/create filters?",
+                "How to add/apply/create a filter?",
+                "I want to add/apply/create a filter."
+            ],
+            "view": [
+                "How can I customize my view?",
+                "How can I select which columns to display?",
+                "How can I personalize my view?",
+                "Can I see multiple rows in one view?",
+                "How do I personalize my view?",
+                "How do I customize my view?",
+                "Can I somehow see more rows in one view?",
+                "Can I customize my view?",
+                "Can I select disabled rows as well?",
+                "How can I customize a view?",
+                "How can I save my views?",
+                "How do I select the columns I want to display?",
+                "Can I see more rows in a single view?",
+                "How do I customize a view?",
+                "How can I personalize my view?",
+                "Can I customize my view?",
+                "How do I customize my views?",
+                "How can I select the columns to display?",
+                "Can I save my view?",
+                "How can I select disabled rows as well?",
+                "How can I select which columns to display?",
+                "How do I select which columns to display?",
+                "Can I save a view?",
+                "How do I choose which columns to display?",
+                "How can I select disabled rows?",
+                "Can I see more rows in a view?",
+                "Can I select disabled rows as well?",
+                "How can I save a view?",
+                "Can I see more rows in one view?",
+                "What is the best way to save a view?",
+                "How do I see more rows in one view?",
+                "Can I select disabled rows?",
+                "Is it possible to select disabled rows?",
+                "How can I save my view?",
+                "Can I see rows in one view?"
+            ],
+            "column": [
+                "How can I select which columns to display?",
+                "How do I select the columns I want to display?",
+                "How can I select the columns to display?",
+                "How can I select which columns to display?",
+                "How do I select which columns to display?",
+                "How do I choose which columns to display?"
+            ],
+            "row": [
+                "Can I see multiple rows in one view?",
+                "Can I somehow see more rows in one view?",
+                "Can I select disabled rows as well?",
+                "Can I see more rows in a single view?",
+                "How can I select disabled rows as well?",
+                "How can I select disabled rows?",
+                "Can I see more rows in a view?",
+                "Can I select disabled rows as well?",
+                "Can I see more rows in one view?",
+                "How do I see more rows in one view?",
+                "Can I select disabled rows?",
+                "Is it possible to select disabled rows?",
+                "Can I see rows in one view?"
+            ],
+            "settings": [
+                "Can I save my settings?",
+                "Can I save my settings?",
+                "How do I save my settings?",
+                "How do you save your settings?",
+                "What is the best way to save settings?",
+                "How can I save my settings?",
+                "How do I save settings on my computer?"
+            ],
+            "custom fields": [
+                "What is the best way to use custom fields?",
+                "How do I define custom fields?",
+                "How can I define custom fields?",
+                "How can I create custom fields?",
+                "How can I use custom fields?",
+                "How do I create custom fields?",
+                "How do I define custom field?",
+                "Can I use custom fields?",
+                "How do I add custom fields?",
+                "How do I create custom fields?",
+                "How can I define custom fields?",
+                "How can I add custom fields?",
+                "What are some ways to define custom fields?",
+                "How do we define custom fields?"
+            ],
+            "summary counter": [
+                "How do I define summary counters?",
+                "How can I use summary counters?",
+                "How do I create summary counters?",
+                "What are summary counters?",
+                "How do you define summary counters?",
+                "How can I define summary counters?",
+                "How do I define summary counter?",
+                "How do I define a summary counter?",
+                "How can I define summary counters?",
+                "How do you use summary counters?",
+                "How can I use summary counter?",
+                "How can you use summary counters?",
+                "How do I use summary counters?"
+            ],
+            "network connectivity": [
+                "How do I disable network connectivity?",
+                "How can network connectivity be disabled?",
+                "How can I disable network connectivity?"
+            ],
+            "subscription": [
+                "How can I see if my subscription is misbehaving?",
+                "How can I see what subscriptions have had traffic today?",
+                "How can I know which subscriptions have had traffic today?",
+                "How can I see if a subscription is misbehaving?",
+                "How can I check if a subscription is misbehaving?",
+                "How do I know if my subscription is misbehaving?",
+                "How can I see which subscriptions have had traffic today?",
+                "How do I check if a subscription is misbehaving?",
+                "How can I see which subscription has had traffic today?",
+                "How can I see how many subscriptions have had traffic today?",
+                "How can I see which subscriptions have had traffic today?",
+                "How do I know which subscriptions have had traffic today?",
+                "How can I see if a subscription is misbehaving?"
+            ],
+            "counters": [
+                "How do I hide the custom counters?",
+                "Can I hide the custom counters?",
+                "How can I hide the custom counters?",
+                "How do I hide my custom counters?",
+                "Can I hide the custom counters?",
+                "How do I hide custom counters?"
+            ],
+            "monthlydata": [
+                "How can I see what subscriptions have had traffic today?",
+                "How can I know which subscriptions have had traffic today?",
+                "How can I see which subscriptions have had traffic today?",
+                "How can I see which subscription has had traffic today?",
+                "How can I see how many subscriptions have had traffic today?",
+                "How can I see which subscriptions have had traffic today?",
+                "How do I know which subscriptions have had traffic today?"
+            ],
+            "portal": [
+                "What is the best way to logout?",
+                "Logout!",
+                "logout",
+                "How do I log out of my account?",
+                "What should I do to logout?",
+                "How do I logout?",
+                "How do I log out?",
+                "How can I logout?"
+            ],
+            "sim": [
+                "Order sim?",
+                "Order sim",
+                "How do I order sim?",
+                "Order sim!",
+                "How do you order sim?"
+            ],
+            "plan": [
+                "How can I change the Plan name?",
+                "How do I change my plan name?",
+                "How do I change the name of my plan?",
+                "How can I change my plan name?"
+            ],
+            "state": [
+                "state change where??",
+                "Where is a state change happening?",
+                "Where is state change?",
+                "What is state change?"
+            ],
+            "euicc": [
+                "euicc order"
+            ]
+        }
+    },
+    "Troubleshoot": {
+        "entities": {
+            "portal": [
+                "Why is the portal so slow?",
+                "What is the reason for error messages?",
+                "What are error messages?",
+                "Why do I get error messages?",
+                "Why is portal slow?",
+                "why error messages",
+                "Why do error messages show up?",
+                "Why do error messages appear?",
+                "I can't see portal",
+                "Why is my portal slow?",
+                "What is the reason behind error messages?",
+                "What is the cause of error messages?",
+                "Why does portal slow?",
+                "Why are there error messages?",
+                "Why are error messages displayed?",
+                "Why portal slow"
+            ],
+            "counters": [
+                "I can't see counters"
+            ],
+            "state": [
+                "I can't see state"
+            ],
+            "plan": [
+                "I can't see plan"
+            ],
+            "row": [
+                "I can't see row"
+            ],
+            "filter": [
+                "I can't see filter"
+            ],
+            "in-session": [
+                "I can't see network in-session"
+            ],
+            "msisdn": [
+                "I can't see msisdn"
+            ],
+            "network connectivity": [
+                "Why NW connectivity enabled is enabled",
+                "Why is NW connectivity disabled and vice versa?",
+                "Why is NW connectivity enabled disabled?",
+                "Why is NW connectivity disabled?",
+                "Why NW connectivity enabled is disabled and vice versa?",
+                "Why is NW connectivity enabled?",
+                "Why is NW connectivity enabled? Why?",
+                "Is NW connectivity enabled?",
+                "I can't see network connectivity",
+                "Why NW connectivity enabled is enabled?"
+            ],
+            "column": [
+                "I can't see column"
+            ],
+            "connectivity lock": [
+                "I can't see connectivity lock"
+            ],
+            "subscription": [
+                "I can't see subscription"
+            ],
+            "announcement": [
+                "I can't see announcement"
+            ],
+            "custom fields": [
+                "I can't see custom fields"
+            ],
+            "summary counter": [
+                "I can't see summary counter"
+            ],
+            "settings": [
+                "I can't see settings"
+            ],
+            "euicc": [
+                "I can't see euicc"
+            ],
+            "iccid": [
+                "I can't see iccid"
+            ],
+            "view": [
+                "I can't see view"
+            ],
+            "action": [
+                "I can't see action"
+            ],
+            "imsi": [
+                "I can't see imsi"
+            ],
+            "sim": [
+                "I can't see sim"
+            ],
+            "billing state": [
+                "I can't see billing state"
+            ],
+            "imei": [
+                "I can't see imei"
+            ]
+        }
+    },
+    "fetch": {
+        "entities": {
+            "subscription": [
+                "How can I fetch my subscription created in last 30 days?",
+                "How do I fetch subscription created in last 30 days?",
+                "fetch the subscription created in last 30 days.",
+                "How do I fetch subscriptions created in last 30 days?",
+                "Show me the subscription with largest traffic.",
+                "How can I fetch the subscription created in last 30 days?",
+                "How do I fetch the subscription created in last 30 days?",
+                "Show me the subscription with the largest traffic.",
+                "show me the subscriber with the largest traffic.",
+                "Show me the subscription with the biggest traffic."
+            ],
+            "days": [
+                "How can I fetch my subscription created in last 30 days?",
+                "How can I fetch traffic generated last 30 days?",
+                "How do I fetch subscription created in last 30 days?",
+                "fetch the subscription created in last 30 days.",
+                "How do I fetch subscriptions created in last 30 days?",
+                "How can I fetch the subscription created in last 30 days?",
+                "How do I fetch the subscription created in last 30 days?",
+                "fetch the traffic generated last 30 days.",
+                "What is the traffic generated in last 30 days?",
+                "How do I get traffic generated last 30 days?",
+                "How do I fetch traffic generated last 30 days?",
+                "How can I get traffic generated last 30 days?"
+            ],
+            "billing state": [
+                "List billing states please",
+                "What are some billing states?",
+                "What are the billing states?",
+                "List billing states please",
+                "What billing states do you want to list?",
+                "What billing states do you have?",
+                "How do I list billing states?"
+            ],
+            "traffic": [
+                "How can I fetch traffic generated last 30 days?",
+                "Bring me location with the largest traffic.",
+                "Show me the subscription with largest traffic.",
+                "Bring me location with largest traffic.",
+                "fetch the traffic generated last 30 days.",
+                "What is the best location for traffic?",
+                "What is the traffic generated in last 30 days?",
+                "How do I get traffic generated last 30 days?",
+                "Show me the subscription with the largest traffic.",
+                "show me the subscriber with the largest traffic.",
+                "Where can I get the most traffic?",
+                "How do I fetch traffic generated last 30 days?",
+                "Show me the subscription with the biggest traffic.",
+                "How can I get traffic generated last 30 days?",
+                "What is the best location with the most traffic?"
+            ],
+            "reports": [
+                "Give me the report.",
+                "What is the report?",
+                "Show me the report.",
+                "Can you show me the report?",
+                "Could you show me the report?"
+            ],
+            "invoices": [
+                "How can I generate invoices?",
+                "How does one generate invoices?",
+                "How should I generate invoices?",
+                "How do I generate invoices?",
+                "How do you generate invoices?",
+                "How do I generate an invoice?"
+            ],
+            "location": [
+                "Bring me location with the largest traffic.",
+                "Bring me location with largest traffic.",
+                "What is the best location for traffic?",
+                "Where can I get the most traffic?",
+                "What is the best location with the most traffic?"
+            ],
+            "usage data": [
+                "Can you give me usage data?",
+                "Where can I get usage data?",
+                "Do you have usage data?",
+                "What is the usage data?",
+                "How can I get usage data?",
+                "How do I get usage data?"
+            ]
+        }
+    },
+    "information_seek": {
+        "entities": {
+            "sim": [
+                "How much does it cost to buy a SIM?",
+                "How much does it cost to get a SIM?",
+                "What is sim?",
+                "What are the different kinds of SIMs?",
+                "How much does it cost to get a SIM card?",
+                "What is a SIM?",
+                "What are the different types of SIM cards?",
+                "What are the different types of SIMs?",
+                "What are SIMs?",
+                "How much does it cost to order a SIM card?",
+                "What are different types of SIMs?",
+                "How much would it cost to order a SIM?",
+                "What are the different types of SIMs?",
+                "How much would it cost to order SIM?"
+            ],
+            "cost": [
+                "How much does it cost to buy a SIM?",
+                "How much does it cost to get a SIM?",
+                "How much does it cost to get a SIM card?",
+                "How much does it cost to order a SIM card?",
+                "How much would it cost to order a SIM?",
+                "How much would it cost to order SIM?"
+            ],
+            "announcement": [
+                "what is announcements",
+                "What is the meaning of announcements?",
+                "What is announcements about?",
+                "What does announcements mean?",
+                "What are announcements?"
+            ],
+            "network connectivity": [
+                "What's network connectivity disabled?",
+                "What is the meaning of network connectivity?",
+                "How is network connectivity disabled?",
+                "What does connectivity mean?",
+                "Why is network connectivity enabled?",
+                "What is network connectivity enabled?",
+                "What do you mean by network connectivity?",
+                "What is network connectivity?",
+                "What is network connectivity disabled?",
+                "Why is network connectivity disabled?",
+                "What is network connectivity enabled for?",
+                "What is network connectivity enabled?",
+                "What are the benefits of network connectivity?",
+                "What is network connectivity disabled?",
+                "What's network connectivity?",
+                "How is network connectivity enabled?",
+                "Is network connectivity enabled?",
+                "What does network connectivity mean?",
+                "What does network connectivity mean?",
+                "What is a network connectivity disabled?",
+                "Is network connectivity disabled?"
+            ],
+            "row": [
+                "Why should I choose more than 1 row?",
+                "Why should I select more than 1 row?",
+                "Why do I have to select more than 1 row?",
+                "Why do I need to select more than one row?",
+                "Why do I have to select more than one row?",
+                "Why should I select more than one row?",
+                "Why should I select more than 1 row?",
+                "What is the difference between rows, which one should I choose?",
+                "What is the difference between rows?"
+            ],
+            "view": [
+                "Why should I choose more than 1 row?",
+                "Why should I select more than 1 row?",
+                "What can I do from this page?",
+                "Why do I have to select more than 1 row?",
+                "Why do I need to select more than one row?",
+                "What do you think about table?",
+                "Why do I have to select more than one row?",
+                "Why should I select more than one row?",
+                "Tell me about table?",
+                "What can I do with this page?",
+                "What should I do on this page?",
+                "What can I do in this page?",
+                "What is the best thing to do on this page?",
+                "Why should I select more than 1 row?",
+                "What is the difference between rows, which one should I choose?",
+                "What can I do in this page?",
+                "Tell me about table",
+                "What are tables?",
+                "What is table?",
+                "What do I do on this page?",
+                "What is the difference between rows?",
+                "What do you mean by table?"
+            ],
+            "msisdn": [
+                "What is MSISDN",
+                "What's MSISDN?",
+                "What is MSISDN?",
+                "What is the purpose of MSISDN?",
+                "What does MSISDN stand for?",
+                "What is MSISDN? What does it mean?"
+            ],
+            "connectivity lock": [
+                "I see a lock, why?",
+                "Where is there a lock/padlock in Connectivity lock column?",
+                "What is a lock?",
+                "What does lock mean?",
+                "There is a lock/padlock in Connectivity lock column.",
+                "What is a lockpadlock?",
+                "What is a padlock?",
+                "What is connectivity lock?",
+                "What is a lock/padlock?",
+                "Why do you see a lock?",
+                "What is the lock/padlock in Connectivity lock column?",
+                "I saw a lock, why?",
+                "What is a connectivity lock?",
+                "What is this lock/padlock?",
+                "Is there a lock/padlock in Connectivity Lock column?",
+                "I see a lock, why?",
+                "Why did I see a lock?",
+                "What does connectivity lock mean?",
+                "I see a lock why?",
+                "What's a connectivity lock?",
+                "What does \"lock\" mean?",
+                "Why is there a lock/padlock in Connectivity lock column?",
+                "What is a lock?",
+                "What does lock mean?",
+                "Why do I see a lock?",
+                "I see a lock and why?",
+                "What is a lock padlock?",
+                "What does locking mean?",
+                "There is a lock/padlock in Connectivity lock column"
+            ],
+            "portal": [
+                "Will the portal remember my selection if I apply a filter?",
+                "Will the portal remember my selection when I apply a filter?",
+                "Will the portal remember your selection if I apply a filter?",
+                "Will the portal remember my selection if I apply a filter?"
+            ],
+            "filter": [
+                "Will the portal remember my selection if I apply a filter?",
+                "Will the portal remember my selection when I apply a filter?",
+                "What do you think about filters?",
+                "What is filter?",
+                "Can you tell me about filters?",
+                "What filters do you use?",
+                "What is filtering?",
+                "What are filters?",
+                "Will the portal remember your selection if I apply a filter?",
+                "Tell me about filters.",
+                "What do you think of filters?",
+                "Tell me about filters",
+                "Will the portal remember my selection if I apply a filter?"
+            ],
+            "custom fields": [
+                "What are custom fields?",
+                "What are custom fields?",
+                "What are custom fields and why?",
+                "What is a custom field?",
+                "What's a custom field?"
+            ],
+            "counters": [
+                "What are counters?",
+                "What do you mean by counters?",
+                "Can you tell me about counters?",
+                "Tell me about counters",
+                "What is a counter?",
+                "What do you think of counters?",
+                "How do counters work?",
+                "What should I know about counters?",
+                "What do you think about counters?"
+            ],
+            "in-session": [
+                "What does \"in session\" mean?",
+                "What does in-session mean?",
+                "What does an in-session mean?",
+                "What is in session?",
+                "What does insession mean?",
+                "What is in session mean?",
+                "What does in session mean?",
+                "What does in-session mean?"
+            ],
+            "action": [
+                "Tell me about every action.",
+                "Tell me about each action.",
+                "Tell me about each action and why?",
+                "Tell me about each action"
+            ],
+            "state": [
+                "What is a state change?"
+            ],
+            "imsi": [
+                "What IMSI stands for?",
+                "What is an IMSI?",
+                "What does IMSI stand for?",
+                "What is IMSI?",
+                "What is IMSI",
+                "What is the acronym IMSI?"
+            ],
+            "imei": [
+                "What does the IMEI stand for?",
+                "What is IMEI?",
+                "What is IMEI and why?",
+                "What is IMEI",
+                "What is an IMEI?",
+                "What is IMEI? What does it mean?",
+                "What does IMEI stand for?"
+            ],
+            "iccid": [
+                "What is the ICCID?",
+                "What is an ICCID?",
+                "What is the acronym ICCID?",
+                "What does the ICCID stand for?",
+                "What is ICCID",
+                "What is the acronym for ICCID?"
+            ],
+            "euicc": [
+                "What is the euicc order?",
+                "Euicc order?",
+                "Euicc order.",
+                "euicc order?"
+            ],
+            "summary counter": [
+                "What is summary counter?",
+                "What do summary counters stand for?",
+                "What are summary counters?",
+                "What are summary counters?",
+                "What's a summary counter?"
+            ],
+            "billing state": [
+                "What is billing state xx?"
+            ]
+        }
+    }
+}

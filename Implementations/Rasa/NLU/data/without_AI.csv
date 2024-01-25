@@ -1,0 +1,382 @@
+,Questions,Intent,Entity,Main_Entities,Questions_with_entities
+0,What does lock mean?,information_seek,['connectivity lock'],['connection'],What does lock mean?
+1,What does network connectivity mean?,information_seek,['network connectivity'],['connection'],what does [network connectivity](connection) mean?
+2,What is network connectivity enabled?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection) enabled?
+3,What is network connectivity disabled?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection) disabled?
+4,What does in-session mean?,information_seek,['in-session'],['option'],what does [in-session](option) mean?
+5,What is billing state xx?,information_seek,['billing state'],['option'],what is [billing state](option) xx?
+6,What is the difference between network connectivity and billing states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",what is the difference between [network connectivity](connection) and [billing state](option)s?
+7,How can I customize my view?,Learn,['view'],['attribute'],how can i customize my [view](attribute)?
+8,Can I customize my view?,Learn,['view'],['attribute'],can i customize my [view](attribute)?
+9,Can I hide the custom counters?,Learn,['counters'],['widget.'],can i hide the custom [counters](widget.)?
+10,How can I select which columns to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how can i select which [column](attribute)s to display?
+11,Can I somehow see more rows in one view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i somehow see more [row](attribute)s in one [view](attribute)?
+12,How can I see which subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i see which [subscription](inventory)s have had traffic today?
+13,How can I see if a subscription is misbehaving?,Learn,['subscription'],['inventory'],how can i see if a [subscription](inventory) is misbehaving?
+14,What are custom fields?,information_seek,['custom fields'],['widget'],what are [custom fields](widget)?
+15,How can I define custom fields?,Learn,['custom fields'],['widget'],how can i define [custom fields](widget)?
+16,How can I use custom fields?,Learn,['custom fields'],['widget'],how can i use [custom fields](widget)?
+17,What are summary counters?,information_seek,['summary counter'],['widget'],what are [summary counter](widget)s?
+18,How can I define summary counters?,Learn,['summary counter'],['widget'],how can i define [summary counter](widget)s?
+19,How can I use summary counters?,Learn,['summary counter'],['widget'],how can i use [summary counter](widget)s?
+20,Can I save my settings?,Learn,['settings'],['option'],can i save my [settings](option)?
+21,Can I save my view?,Learn,['view'],['attribute'],can i save my [view](attribute)?
+22,What can I do in this page?,information_seek,['view'],['attribute'],What can I do in this page?
+23,What are the different types of SIMs?,information_seek,['sim'],['inventory'],what are the different types of [sim](inventory)s?
+24,Tell me about filters,information_seek,['filter'],['widget'],tell me about [filter](widget)s
+25,Tell me about counters,information_seek,['counters'],['widget.'],tell me about [counters](widget.)
+26,Tell me about table,information_seek,['view'],['attribute'],Tell me about table
+27,Tell me about each action,information_seek,['action'],['widget'],tell me about each [action](widget)
+28,What is IMSI,information_seek,['imsi'],['identifier'],what is [imsi](identifier)
+29,What is MSISDN,information_seek,['msisdn'],['identifier'],what is [msisdn](identifier)
+30,What is IMEI,information_seek,['imei'],['identifier'],what is [imei](identifier)
+31,What is ICCID,information_seek,['iccid'],['identifier'],what is [iccid](identifier)
+32,Why portal slow,Troubleshoot,['portal'],['page'],why [portal](page) slow
+33,Order sim,Learn,['sim'],['inventory'],order [sim](inventory)
+34,state change where??,Learn,['state'],['option'],[state](option) change where??
+35,logout,Learn,['portal'],['page'],logout
+36,what is announcements,information_seek,['announcement'],['page'],what is [announcement](page)s
+37,euicc order,Learn,['euicc'],['inventory'],[euicc](inventory) order
+38,why error messages,Troubleshoot,['portal'],['page'],why error messages
+39,how to select more than 10000 imsi,Learn,['imsi'],['identifier'],how to select more than 10000 [imsi](identifier)
+40,How can I apply a filter?,Learn,['filter'],['widget'],how can i apply a [filter](widget)?
+41,How can I add/create a filter?,Learn,['filter'],['widget'],how can i add/create a [filter](widget)?
+42,How can I add/apply/create filters?,Learn,['filter'],['widget'],how can i add/apply/create [filter](widget)s?
+43,How to add/apply/create a filter?,Learn,['filter'],['widget'],how to add/apply/create a [filter](widget)?
+44,How to add/apply/create filters?,Learn,['filter'],['widget'],how to add/apply/create [filter](widget)s?
+45,I want to add/apply/create a filter,Learn,['filter'],['widget'],i want to add/apply/create a [filter](widget)
+46,I want to add/apply/create filters,Learn,['filter'],['widget'],i want to add/apply/create [filter](widget)s
+47,What is connectivity lock?,information_seek,['connectivity lock'],['connection'],what is [connectivity lock](connection)?
+48,What is this lock/padlock?,information_seek,['connectivity lock'],['connection'],What is this lock/padlock?
+49,There is a lock/padlock in Connectivity lock column,information_seek,['connectivity lock'],['connection'],there is a lock/padlock in [connectivity lock](connection) column
+50,"I see a lock, why?",information_seek,['connectivity lock'],['connection'],"I see a lock, why?"
+51,How much would it cost to order SIM?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much would it [cost](None) to order [sim](inventory)?
+52,"What is the difference between the rows, which one should I choose?",information_Comparison,"['row', 'view']","['attribute', 'attribute']","what is the difference between the [row](attribute)s, which one should i choose?"
+53,Why should I select more than 1 row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why should i select more than 1 [row](attribute)?
+54,Can I select disabled rows as well?,Learn,"['row', 'view']","['attribute', 'attribute']",can i select disabled [row](attribute)s as well?
+55,List billing states please,fetch,['billing state'],['option'],list [billing state](option)s please
+56,How can I change the Plan name?,Learn,['plan'],['option'],how can i change the [plan](option) name?
+57,Will the portal remember my selection if I apply a filter?,information_seek,"['portal', 'filter']","['page', 'widget']",will the [portal](page) remember my selection if i apply a [filter](widget)?
+58,Why NW connectivity enabled is disabled and vice versa?,Troubleshoot,['network connectivity'],['connection'],Why NW connectivity enabled is disabled and vice versa?
+59,Why NW connectivity enabled is enabled,Troubleshoot,['network connectivity'],['connection'],Why NW connectivity enabled is enabled
+60,What does lock mean?,information_seek,['connectivity lock'],['connection'],What does lock mean?
+61,What does locking mean?,information_seek,['connectivity lock'],['connection'],What does locking mean?
+62,"What does ""lock"" mean?",information_seek,['connectivity lock'],['connection'],"What does ""lock"" mean?"
+63,What is a lock?,information_seek,['connectivity lock'],['connection'],What is a lock?
+64,What does network connectivity mean?,information_seek,['network connectivity'],['connection'],what does [network connectivity](connection) mean?
+65,What is network connectivity?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection)?
+66,What does connectivity mean?,information_seek,['network connectivity'],['connection'],What does connectivity mean?
+67,What do you mean by network connectivity?,information_seek,['network connectivity'],['connection'],what do you mean by [network connectivity](connection)?
+68,What's network connectivity?,information_seek,['network connectivity'],['connection'],what's [network connectivity](connection)?
+69,What is the meaning of network connectivity?,information_seek,['network connectivity'],['connection'],what is the meaning of [network connectivity](connection)?
+70,What is network connectivity enabled?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection) enabled?
+71,How is network connectivity enabled?,information_seek,['network connectivity'],['connection'],how is [network connectivity](connection) enabled?
+72,What is network connectivity enabled for?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection) enabled for?
+73,Is network connectivity enabled?,information_seek,['network connectivity'],['connection'],is [network connectivity](connection) enabled?
+74,Why is network connectivity enabled?,information_seek,['network connectivity'],['connection'],why is [network connectivity](connection) enabled?
+75,What are the benefits of network connectivity?,information_seek,['network connectivity'],['connection'],what are the benefits of [network connectivity](connection)?
+76,What is network connectivity disabled?,information_seek,['network connectivity'],['connection'],what is [network connectivity](connection) disabled?
+77,Why is network connectivity disabled?,information_seek,['network connectivity'],['connection'],why is [network connectivity](connection) disabled?
+78,How is network connectivity disabled?,information_seek,['network connectivity'],['connection'],how is [network connectivity](connection) disabled?
+79,Is network connectivity disabled?,information_seek,['network connectivity'],['connection'],is [network connectivity](connection) disabled?
+80,How can I disable network connectivity?,Learn,['network connectivity'],['connection'],how can i disable [network connectivity](connection)?
+81,How can network connectivity be disabled?,Learn,['network connectivity'],['connection'],how can [network connectivity](connection) be disabled?
+82,What's network connectivity disabled?,information_seek,['network connectivity'],['connection'],what's [network connectivity](connection) disabled?
+83,How do I disable network connectivity?,Learn,['network connectivity'],['connection'],how do i disable [network connectivity](connection)?
+84,What is a network connectivity disabled?,information_seek,['network connectivity'],['connection'],what is a [network connectivity](connection) disabled?
+85,What does in-session mean?,information_seek,['in-session'],['option'],what does [in-session](option) mean?
+86,What does in session mean?,information_seek,['in-session'],['option'],What does in session mean?
+87,What is in session?,information_seek,['in-session'],['option'],What is in session?
+88,What does an in-session mean?,information_seek,['in-session'],['option'],what does an [in-session](option) mean?
+89,"What does ""in session"" mean?",information_seek,['in-session'],['option'],"What does ""in session"" mean?"
+90,What does insession mean?,information_seek,['in-session'],['option'],What does insession mean?
+91,What is in session mean?,information_seek,['in-session'],['option'],What is in session mean?
+92,What is the difference between billing states and network states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",what is the difference between [billing state](option)s and network states?
+93,What is the difference between network and billing states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",what is the difference between network and [billing state](option)s?
+94,What is the difference between billing and network states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",What is the difference between billing and network states?
+95,What's the difference between billing states and network states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",what's the difference between [billing state](option)s and network states?
+96,What is the difference between billing and network?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",What is the difference between billing and network?
+97,What's the difference between network and billing states?,information_Comparison,"['network connectivity', 'billing state']","['connection', 'option']",what's the difference between network and [billing state](option)s?
+98,How do I customize my view?,Learn,['view'],['attribute'],how do i customize my [view](attribute)?
+99,How can I customize a view?,Learn,['view'],['attribute'],how can i customize a [view](attribute)?
+100,How can I personalize my view?,Learn,['view'],['attribute'],how can i personalize my [view](attribute)?
+101,Can I customize my view?,Learn,['view'],['attribute'],can i customize my [view](attribute)?
+102,How do I customize a view?,Learn,['view'],['attribute'],how do i customize a [view](attribute)?
+103,How can I personalize my view?,Learn,['view'],['attribute'],how can i personalize my [view](attribute)?
+104,How do I customize my views?,Learn,['view'],['attribute'],how do i customize my [view](attribute)s?
+105,How do I personalize my view?,Learn,['view'],['attribute'],how do i personalize my [view](attribute)?
+106,How do I hide custom counters?,Learn,['counters'],['widget.'],how do i hide custom [counters](widget.)?
+107,How do I hide my custom counters?,Learn,['counters'],['widget.'],how do i hide my custom [counters](widget.)?
+108,Can I hide the custom counters?,Learn,['counters'],['widget.'],can i hide the custom [counters](widget.)?
+109,How do I hide the custom counters?,Learn,['counters'],['widget.'],how do i hide the custom [counters](widget.)?
+110,How can I hide the custom counters?,Learn,['counters'],['widget.'],how can i hide the custom [counters](widget.)?
+111,How do I select which columns to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how do i select which [column](attribute)s to display?
+112,How can I select which columns to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how can i select which [column](attribute)s to display?
+113,How do I choose which columns to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how do i choose which [column](attribute)s to display?
+114,How do I select the columns I want to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how do i select the [column](attribute)s i want to display?
+115,How can I select the columns to display?,Learn,"['column', 'view']","['attribute', 'attribute']",how can i select the [column](attribute)s to display?
+116,Can I see more rows in one view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i see more [row](attribute)s in one [view](attribute)?
+117,Can I see more rows in a single view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i see more [row](attribute)s in a single [view](attribute)?
+118,Can I see more rows in a view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i see more [row](attribute)s in a [view](attribute)?
+119,How do I see more rows in one view?,Learn,"['row', 'view']","['attribute', 'attribute']",how do i see more [row](attribute)s in one [view](attribute)?
+120,Can I see multiple rows in one view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i see multiple [row](attribute)s in one [view](attribute)?
+121,Can I see rows in one view?,Learn,"['row', 'view']","['attribute', 'attribute']",can i see [row](attribute)s in one [view](attribute)?
+122,How can I see which subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i see which [subscription](inventory)s have had traffic today?
+123,How can I see how many subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i see how many [subscription](inventory)s have had traffic today?
+124,How do I know which subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how do i know which [subscription](inventory)s have had traffic today?
+125,How can I know which subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i know which [subscription](inventory)s have had traffic today?
+126,How can I see what subscriptions have had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i see what [subscription](inventory)s have had traffic today?
+127,How can I see which subscription has had traffic today?,Learn,"['subscription', 'monthlydata']","['inventory', 'stat']",how can i see which [subscription](inventory) has had traffic today?
+128,How can I see if a subscription is misbehaving?,Learn,['subscription'],['inventory'],how can i see if a [subscription](inventory) is misbehaving?
+129,How can I see if my subscription is misbehaving?,Learn,['subscription'],['inventory'],how can i see if my [subscription](inventory) is misbehaving?
+130,How do I know if my subscription is misbehaving?,Learn,['subscription'],['inventory'],how do i know if my [subscription](inventory) is misbehaving?
+131,How do I check if a subscription is misbehaving?,Learn,['subscription'],['inventory'],how do i check if a [subscription](inventory) is misbehaving?
+132,How can I check if a subscription is misbehaving?,Learn,['subscription'],['inventory'],how can i check if a [subscription](inventory) is misbehaving?
+133,What are custom fields?,information_seek,['custom fields'],['widget'],what are [custom fields](widget)?
+134,What is a custom field?,information_seek,['custom fields'],['widget'],What is a custom field?
+135,What are custom fields and why?,information_seek,['custom fields'],['widget'],what are [custom fields](widget) and why?
+136,What's a custom field?,information_seek,['custom fields'],['widget'],What's a custom field?
+137,How do I define custom fields?,Learn,['custom fields'],['widget'],how do i define [custom fields](widget)?
+138,How can I define custom fields?,Learn,['custom fields'],['widget'],how can i define [custom fields](widget)?
+139,How do I create custom fields?,Learn,['custom fields'],['widget'],how do i create [custom fields](widget)?
+140,How do I define custom field?,Learn,['custom fields'],['widget'],How do I define custom field?
+141,What are some ways to define custom fields?,Learn,['custom fields'],['widget'],what are some ways to define [custom fields](widget)?
+142,How do we define custom fields?,Learn,['custom fields'],['widget'],how do we define [custom fields](widget)?
+143,How can I create custom fields?,Learn,['custom fields'],['widget'],how can i create [custom fields](widget)?
+144,How do I create custom fields?,Learn,['custom fields'],['widget'],how do i create [custom fields](widget)?
+145,What is the best way to use custom fields?,Learn,['custom fields'],['widget'],what is the best way to use [custom fields](widget)?
+146,Can I use custom fields?,Learn,['custom fields'],['widget'],can i use [custom fields](widget)?
+147,How do I add custom fields?,Learn,['custom fields'],['widget'],how do i add [custom fields](widget)?
+148,How can I add custom fields?,Learn,['custom fields'],['widget'],how can i add [custom fields](widget)?
+149,What are summary counters?,information_seek,['summary counter'],['widget'],what are [summary counter](widget)s?
+150,What is summary counter?,information_seek,['summary counter'],['widget'],what is [summary counter](widget)?
+151,What do summary counters stand for?,information_seek,['summary counter'],['widget'],what do [summary counter](widget)s stand for?
+152,What's a summary counter?,information_seek,['summary counter'],['widget'],what's a [summary counter](widget)?
+153,How do I define summary counters?,Learn,['summary counter'],['widget'],how do i define [summary counter](widget)s?
+154,How can I define summary counters?,Learn,['summary counter'],['widget'],how can i define [summary counter](widget)s?
+155,How do you define summary counters?,Learn,['summary counter'],['widget'],how do you define [summary counter](widget)s?
+156,How do I define summary counter?,Learn,['summary counter'],['widget'],how do i define [summary counter](widget)?
+157,How do I define a summary counter?,Learn,['summary counter'],['widget'],how do i define a [summary counter](widget)?
+158,How do I create summary counters?,Learn,['summary counter'],['widget'],how do i create [summary counter](widget)s?
+159,How do I use summary counters?,Learn,['summary counter'],['widget'],how do i use [summary counter](widget)s?
+160,How do you use summary counters?,Learn,['summary counter'],['widget'],how do you use [summary counter](widget)s?
+161,How can I use summary counter?,Learn,['summary counter'],['widget'],how can i use [summary counter](widget)?
+162,What are summary counters?,Learn,['summary counter'],['widget'],what are [summary counter](widget)s?
+163,How can you use summary counters?,Learn,['summary counter'],['widget'],how can you use [summary counter](widget)s?
+164,How do I save my settings?,Learn,['settings'],['option'],how do i save my [settings](option)?
+165,Can I save my settings?,Learn,['settings'],['option'],can i save my [settings](option)?
+166,How can I save my settings?,Learn,['settings'],['option'],how can i save my [settings](option)?
+167,What is the best way to save settings?,Learn,['settings'],['option'],what is the best way to save [settings](option)?
+168,How do you save your settings?,Learn,['settings'],['option'],how do you save your [settings](option)?
+169,How do I save settings on my computer?,Learn,['settings'],['option'],how do i save [settings](option) on my computer?
+170,How can I save my view?,Learn,['view'],['attribute'],how can i save my [view](attribute)?
+171,Can I save a view?,Learn,['view'],['attribute'],can i save a [view](attribute)?
+172,How can I save a view?,Learn,['view'],['attribute'],how can i save a [view](attribute)?
+173,How can I save my views?,Learn,['view'],['attribute'],how can i save my [view](attribute)s?
+174,What is the best way to save a view?,Learn,['view'],['attribute'],what is the best way to save a [view](attribute)?
+175,What can I do in this page?,information_seek,['view'],['attribute'],What can I do in this page?
+176,What should I do on this page?,information_seek,['view'],['attribute'],What should I do on this page?
+177,What do I do on this page?,information_seek,['view'],['attribute'],What do I do on this page?
+178,What can I do with this page?,information_seek,['view'],['attribute'],What can I do with this page?
+179,What can I do from this page?,information_seek,['view'],['attribute'],What can I do from this page?
+180,What is the best thing to do on this page?,information_seek,['view'],['attribute'],What is the best thing to do on this page?
+181,What are the different types of SIMs?,information_seek,['sim'],['inventory'],what are the different types of [sim](inventory)s?
+182,What are different types of SIMs?,information_seek,['sim'],['inventory'],what are different types of [sim](inventory)s?
+183,What are the different types of SIM cards?,information_seek,['sim'],['inventory'],what are the different types of [sim](inventory) cards?
+184,What are SIMs?,information_seek,['sim'],['inventory'],what are [sim](inventory)s?
+185,What are the different kinds of SIMs?,information_seek,['sim'],['inventory'],what are the different kinds of [sim](inventory)s?
+186,What is a SIM?,information_seek,['sim'],['inventory'],what is a [sim](inventory)?
+187,What are filters?,information_seek,['filter'],['widget'],what are [filter](widget)s?
+188,What filters do you use?,information_seek,['filter'],['widget'],what [filter](widget)s do you use?
+189,What do you think about filters?,information_seek,['filter'],['widget'],what do you think about [filter](widget)s?
+190,What is filtering?,information_seek,['filter'],['widget'],what is [filter](widget)ing?
+191,Can you tell me about filters?,information_seek,['filter'],['widget'],can you tell me about [filter](widget)s?
+192,Tell me about filters.,information_seek,['filter'],['widget'],tell me about [filter](widget)s.
+193,What is filter?,information_seek,['filter'],['widget'],what is [filter](widget)?
+194,What do you think of filters?,information_seek,['filter'],['widget'],what do you think of [filter](widget)s?
+195,What are counters?,information_seek,['counters'],['widget.'],what are [counters](widget.)?
+196,What do you think about counters?,information_seek,['counters'],['widget.'],what do you think about [counters](widget.)?
+197,What is a counter?,information_seek,['counters'],['widget.'],What is a counter?
+198,How do counters work?,information_seek,['counters'],['widget.'],how do [counters](widget.) work?
+199,What do you think of counters?,information_seek,['counters'],['widget.'],what do you think of [counters](widget.)?
+200,What should I know about counters?,information_seek,['counters'],['widget.'],what should i know about [counters](widget.)?
+201,Can you tell me about counters?,information_seek,['counters'],['widget.'],can you tell me about [counters](widget.)?
+202,What do you mean by counters?,information_seek,['counters'],['widget.'],what do you mean by [counters](widget.)?
+203,What is table?,information_seek,['view'],['attribute'],What is table?
+204,Tell me about table?,information_seek,['view'],['attribute'],Tell me about table?
+205,What do you mean by table?,information_seek,['view'],['attribute'],What do you mean by table?
+206,What do you think about table?,information_seek,['view'],['attribute'],What do you think about table?
+207,What are tables?,information_seek,['view'],['attribute'],What are tables?
+208,Tell me about each action.,information_seek,['action'],['widget'],tell me about each [action](widget).
+209,Tell me about every action.,information_seek,['action'],['widget'],tell me about every [action](widget).
+210,Tell me about each action and why?,information_seek,['action'],['widget'],tell me about each [action](widget) and why?
+211,What is IMSI?,information_seek,['imsi'],['identifier'],what is [imsi](identifier)?
+212,What does IMSI stand for?,information_seek,['imsi'],['identifier'],what does [imsi](identifier) stand for?
+213,What is the acronym IMSI?,information_seek,['imsi'],['identifier'],what is the acronym [imsi](identifier)?
+214,What is an IMSI?,information_seek,['imsi'],['identifier'],what is an [imsi](identifier)?
+215,What IMSI stands for?,information_seek,['imsi'],['identifier'],what [imsi](identifier) stands for?
+216,What is MSISDN?,information_seek,['msisdn'],['identifier'],what is [msisdn](identifier)?
+217,What does MSISDN stand for?,information_seek,['msisdn'],['identifier'],what does [msisdn](identifier) stand for?
+218,What's MSISDN?,information_seek,['msisdn'],['identifier'],what's [msisdn](identifier)?
+219,What is MSISDN? What does it mean?,information_seek,['msisdn'],['identifier'],what is [msisdn](identifier)? what does it mean?
+220,What is the purpose of MSISDN?,information_seek,['msisdn'],['identifier'],what is the purpose of [msisdn](identifier)?
+221,What is IMEI?,information_seek,['imei'],['identifier'],what is [imei](identifier)?
+222,What is an IMEI?,information_seek,['imei'],['identifier'],what is an [imei](identifier)?
+223,What does IMEI stand for?,information_seek,['imei'],['identifier'],what does [imei](identifier) stand for?
+224,What is IMEI? What does it mean?,information_seek,['imei'],['identifier'],what is [imei](identifier)? what does it mean?
+225,What does the IMEI stand for?,information_seek,['imei'],['identifier'],what does the [imei](identifier) stand for?
+226,What is IMEI and why?,information_seek,['imei'],['identifier'],what is [imei](identifier) and why?
+227,What is the ICCID?,information_seek,['iccid'],['identifier'],what is the [iccid](identifier)?
+228,What is an ICCID?,information_seek,['iccid'],['identifier'],what is an [iccid](identifier)?
+229,What is the acronym ICCID?,information_seek,['iccid'],['identifier'],what is the acronym [iccid](identifier)?
+230,What does the ICCID stand for?,information_seek,['iccid'],['identifier'],what does the [iccid](identifier) stand for?
+231,What is the acronym for ICCID?,information_seek,['iccid'],['identifier'],what is the acronym for [iccid](identifier)?
+232,Why is portal slow?,Troubleshoot,['portal'],['page'],why is [portal](page) slow?
+233,Why is the portal so slow?,Troubleshoot,['portal'],['page'],why is the [portal](page) so slow?
+234,Why does portal slow?,Troubleshoot,['portal'],['page'],why does [portal](page) slow?
+235,Why is my portal slow?,Troubleshoot,['portal'],['page'],why is my [portal](page) slow?
+236,Order sim?,Learn,['sim'],['inventory'],order [sim](inventory)?
+237,What is sim?,information_seek,['sim'],['inventory'],what is [sim](inventory)?
+238,Order sim!,Learn,['sim'],['inventory'],order [sim](inventory)!
+239,How do you order sim?,Learn,['sim'],['inventory'],how do you order [sim](inventory)?
+240,How do I order sim?,Learn,['sim'],['inventory'],how do i order [sim](inventory)?
+241,What is a state change?,information_seek,['state'],['option'],what is a [state](option) change?
+242,Where is a state change happening?,Learn,['state'],['option'],where is a [state](option) change happening?
+243,What is state change?,Learn,['state'],['option'],what is [state](option) change?
+244,Where is state change?,Learn,['state'],['option'],where is [state](option) change?
+245,How do I logout?,Learn,['portal'],['page'],How do I logout?
+246,How do I log out?,Learn,['portal'],['page'],How do I log out?
+247,What is the best way to logout?,Learn,['portal'],['page'],What is the best way to logout?
+248,What should I do to logout?,Learn,['portal'],['page'],What should I do to logout?
+249,Logout!,Learn,['portal'],['page'],Logout!
+250,How do I log out of my account?,Learn,['portal'],['page'],How do I log out of my account?
+251,How can I logout?,Learn,['portal'],['page'],How can I logout?
+252,What are announcements?,information_seek,['announcement'],['page'],what are [announcement](page)s?
+253,What does announcements mean?,information_seek,['announcement'],['page'],what does [announcement](page)s mean?
+254,What is announcements about?,information_seek,['announcement'],['page'],what is [announcement](page)s about?
+255,What is the meaning of announcements?,information_seek,['announcement'],['page'],what is the meaning of [announcement](page)s?
+256,What is the euicc order?,information_seek,['euicc'],['inventory'],what is the [euicc](inventory) order?
+257,Euicc order?,information_seek,['euicc'],['inventory'],[euicc](inventory) order?
+258,Euicc order.,information_seek,['euicc'],['inventory'],[euicc](inventory) order.
+259,euicc order?,information_seek,['euicc'],['inventory'],[euicc](inventory) order?
+260,What are error messages?,Troubleshoot,['portal'],['page'],What are error messages?
+261,Why are error messages displayed?,Troubleshoot,['portal'],['page'],Why are error messages displayed?
+262,Why are there error messages?,Troubleshoot,['portal'],['page'],Why are there error messages?
+263,What is the reason for error messages?,Troubleshoot,['portal'],['page'],What is the reason for error messages?
+264,Why do error messages appear?,Troubleshoot,['portal'],['page'],Why do error messages appear?
+265,What is the reason behind error messages?,Troubleshoot,['portal'],['page'],What is the reason behind error messages?
+266,What is the cause of error messages?,Troubleshoot,['portal'],['page'],What is the cause of error messages?
+267,Why do I get error messages?,Troubleshoot,['portal'],['page'],Why do I get error messages?
+268,Why do error messages show up?,Troubleshoot,['portal'],['page'],Why do error messages show up?
+269,How do I select more than 10000 imsi?,Learn,['imsi'],['identifier'],how do i select more than 10000 [imsi](identifier)?
+270,How do you select more than 10000 imsi?,Learn,['imsi'],['identifier'],how do you select more than 10000 [imsi](identifier)?
+271,How do I select 10000 imsi?,Learn,['imsi'],['identifier'],how do i select 10000 [imsi](identifier)?
+272,How can I get more than 10000 imsi?,Learn,['imsi'],['identifier'],how can i get more than 10000 [imsi](identifier)?
+273,How do I select more than 10000 imsi cards?,Learn,['imsi'],['identifier'],how do i select more than 10000 [imsi](identifier) cards?
+274,How do I apply a filter?,Learn,['filter'],['widget'],how do i apply a [filter](widget)?
+275,How can I apply filter?,Learn,['filter'],['widget'],how can i apply [filter](widget)?
+276,What is the best way to apply filter?,Learn,['filter'],['widget'],what is the best way to apply [filter](widget)?
+277,How do I create a filter?,Learn,['filter'],['widget'],how do i create a [filter](widget)?
+278,How do I create filter?,Learn,['filter'],['widget'],how do i create [filter](widget)?
+279,How do I add/create a filter?,Learn,['filter'],['widget'],how do i add/create a [filter](widget)?
+280,How can I add a filter?,Learn,['filter'],['widget'],how can i add a [filter](widget)?
+281,How do I add/apply filters?,Learn,['filter'],['widget'],how do i add/apply [filter](widget)s?
+282,How do I apply filters?,Learn,['filter'],['widget'],how do i apply [filter](widget)s?
+283,How do I create filters?,Learn,['filter'],['widget'],how do i create [filter](widget)s?
+284,How do you add filters?,Learn,['filter'],['widget'],how do you add [filter](widget)s?
+285,What is the best way to add filters?,Learn,['filter'],['widget'],what is the best way to add [filter](widget)s?
+286,How do I add filters?,Learn,['filter'],['widget'],how do i add [filter](widget)s?
+287,How do I add/apply filters?,Learn,['filter'],['widget'],how do i add/apply [filter](widget)s?
+288,How can I add filters?,Learn,['filter'],['widget'],how can i add [filter](widget)s?
+289,How do I create filters?,Learn,['filter'],['widget'],how do i create [filter](widget)s?
+290,How do you add filters?,Learn,['filter'],['widget'],how do you add [filter](widget)s?
+291,I want to add/apply/create a filter.,Learn,['filter'],['widget'],i want to add/apply/create a [filter](widget).
+292,How do I add/apply/create a filter?,Learn,['filter'],['widget'],how do i add/apply/create a [filter](widget)?
+293,How can I add/apply/create filter?,Learn,['filter'],['widget'],how can i add/apply/create [filter](widget)?
+294,I want to add/apply/create filter?,Learn,['filter'],['widget'],i want to add/apply/create [filter](widget)?
+295,How do I add/apply/create filters?,Learn,['filter'],['widget'],how do i add/apply/create [filter](widget)s?
+296,I want to add/apply/create filters?,Learn,['filter'],['widget'],i want to add/apply/create [filter](widget)s?
+297,How do I add/apply filters?,Learn,['filter'],['widget'],how do i add/apply [filter](widget)s?
+298,I want to add/apply/create filter.,Learn,['filter'],['widget'],i want to add/apply/create [filter](widget).
+299,How do I apply filters?,Learn,['filter'],['widget'],how do i apply [filter](widget)s?
+300,What is a connectivity lock?,information_seek,['connectivity lock'],['connection'],what is a [connectivity lock](connection)?
+301,What does connectivity lock mean?,information_seek,['connectivity lock'],['connection'],what does [connectivity lock](connection) mean?
+302,What's a connectivity lock?,information_seek,['connectivity lock'],['connection'],what's a [connectivity lock](connection)?
+303,What is a lock/padlock?,information_seek,['connectivity lock'],['connection'],What is a lock/padlock?
+304,What is a padlock?,information_seek,['connectivity lock'],['connection'],What is a padlock?
+305,What is a lock padlock?,information_seek,['connectivity lock'],['connection'],What is a lock padlock?
+306,What is a lockpadlock?,information_seek,['connectivity lock'],['connection'],What is a lockpadlock?
+307,What is a lock?,information_seek,['connectivity lock'],['connection'],What is a lock?
+308,There is a lock/padlock in Connectivity lock column.,information_seek,['connectivity lock'],['connection'],there is a lock/padlock in [connectivity lock](connection) column.
+309,What is the lock/padlock in Connectivity lock column?,information_seek,['connectivity lock'],['connection'],what is the lock/padlock in [connectivity lock](connection) column?
+310,Where is there a lock/padlock in Connectivity lock column?,information_seek,['connectivity lock'],['connection'],where is there a lock/padlock in [connectivity lock](connection) column?
+311,Why is there a lock/padlock in Connectivity lock column?,information_seek,['connectivity lock'],['connection'],why is there a lock/padlock in [connectivity lock](connection) column?
+312,Is there a lock/padlock in Connectivity Lock column?,information_seek,['connectivity lock'],['connection'],is there a lock/padlock in [connectivity lock](connection) column?
+313,"I see a lock, why?",information_seek,['connectivity lock'],['connection'],"I see a lock, why?"
+314,Why do I see a lock?,information_seek,['connectivity lock'],['connection'],Why do I see a lock?
+315,"I saw a lock, why?",information_seek,['connectivity lock'],['connection'],"I saw a lock, why?"
+316,Why do you see a lock?,information_seek,['connectivity lock'],['connection'],Why do you see a lock?
+317,I see a lock why?,information_seek,['connectivity lock'],['connection'],I see a lock why?
+318,Why did I see a lock?,information_seek,['connectivity lock'],['connection'],Why did I see a lock?
+319,I see a lock and why?,information_seek,['connectivity lock'],['connection'],I see a lock and why?
+320,How much does it cost to order a SIM card?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much does it [cost](None) to order a [sim](inventory) card?
+321,How much does it cost to get a SIM card?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much does it [cost](None) to get a [sim](inventory) card?
+322,How much does it cost to get a SIM?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much does it [cost](None) to get a [sim](inventory)?
+323,How much would it cost to order a SIM?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much would it [cost](None) to order a [sim](inventory)?
+324,How much does it cost to buy a SIM?,information_seek,"['sim', 'cost']","['inventory', 'None']",how much does it [cost](None) to buy a [sim](inventory)?
+325,What is the difference between rows?,information_seek,"['row', 'view']","['attribute', 'attribute']",what is the difference between [row](attribute)s?
+326,"What is the difference between rows, which one should I choose?",information_seek,"['row', 'view']","['attribute', 'attribute']","what is the difference between [row](attribute)s, which one should i choose?"
+327,Why should I select more than 1 row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why should i select more than 1 [row](attribute)?
+328,Why should I select more than one row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why should i select more than one [row](attribute)?
+329,Why do I have to select more than 1 row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why do i have to select more than 1 [row](attribute)?
+330,Why should I choose more than 1 row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why should i choose more than 1 [row](attribute)?
+331,Why do I have to select more than one row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why do i have to select more than one [row](attribute)?
+332,Why do I need to select more than one row?,information_seek,"['row', 'view']","['attribute', 'attribute']",why do i need to select more than one [row](attribute)?
+333,Can I select disabled rows?,Learn,"['row', 'view']","['attribute', 'attribute']",can i select disabled [row](attribute)s?
+334,Can I select disabled rows as well?,Learn,"['row', 'view']","['attribute', 'attribute']",can i select disabled [row](attribute)s as well?
+335,How can I select disabled rows?,Learn,"['row', 'view']","['attribute', 'attribute']",how can i select disabled [row](attribute)s?
+336,Is it possible to select disabled rows?,Learn,"['row', 'view']","['attribute', 'attribute']",is it possible to select disabled [row](attribute)s?
+337,How can I select disabled rows as well?,Learn,"['row', 'view']","['attribute', 'attribute']",how can i select disabled [row](attribute)s as well?
+338,What are the billing states?,fetch,['billing state'],['option'],what are the [billing state](option)s?
+339,What are some billing states?,fetch,['billing state'],['option'],what are some [billing state](option)s?
+340,List billing states please,fetch,['billing state'],['option'],list [billing state](option)s please
+341,What billing states do you want to list?,fetch,['billing state'],['option'],what [billing state](option)s do you want to list?
+342,How do I list billing states?,fetch,['billing state'],['option'],how do i list [billing state](option)s?
+343,What billing states do you have?,fetch,['billing state'],['option'],what [billing state](option)s do you have?
+344,How do I change my plan name?,Learn,['plan'],['option'],how do i change my [plan](option) name?
+345,How can I change my plan name?,Learn,['plan'],['option'],how can i change my [plan](option) name?
+346,How do I change the name of my plan?,Learn,['plan'],['option'],how do i change the name of my [plan](option)?
+347,Will the portal remember my selection if I apply a filter?,information_seek,"['portal', 'filter']","['page', 'widget']",will the [portal](page) remember my selection if i apply a [filter](widget)?
+348,Will the portal remember my selection when I apply a filter?,information_seek,"['portal', 'filter']","['page', 'widget']",will the [portal](page) remember my selection when i apply a [filter](widget)?
+349,Will the portal remember your selection if I apply a filter?,information_seek,"['portal', 'filter']","['page', 'widget']",will the [portal](page) remember your selection if i apply a [filter](widget)?
+350,Why is NW connectivity disabled and vice versa?,Troubleshoot,['network connectivity'],['connection'],Why is NW connectivity disabled and vice versa?
+351,Why is NW connectivity disabled?,Troubleshoot,['network connectivity'],['connection'],Why is NW connectivity disabled?
+352,Why is NW connectivity enabled disabled?,Troubleshoot,['network connectivity'],['connection'],Why is NW connectivity enabled disabled?
+353,Why is NW connectivity enabled?,Troubleshoot,['network connectivity'],['connection'],Why is NW connectivity enabled?
+354,Why NW connectivity enabled is enabled?,Troubleshoot,['network connectivity'],['connection'],Why NW connectivity enabled is enabled?
+355,Is NW connectivity enabled?,Troubleshoot,['network connectivity'],['connection'],Is NW connectivity enabled?
+356,Why is NW connectivity enabled? Why?,Troubleshoot,['network connectivity'],['connection'],Why is NW connectivity enabled? Why?
+357,I can't see connectivity lock,Troubleshoot,['connectivity lock'],['connection'],i can't see [connectivity lock](connection)
+358,I can't see network connectivity,Troubleshoot,['network connectivity'],['connection'],i can't see [network connectivity](connection)
+359,I can't see network in-session,Troubleshoot,['in-session'],['option'],i can't see network [in-session](option)
+360,I can’t see billing state,Troubleshoot,['billing state'],['option'],i can’t see [billing state](option)
+361,I can't see view,Troubleshoot,['view'],['attribute'],i can't see [view](attribute)
+362,I can't see counters,Troubleshoot,['counters'],['widget.'],i can't see [counters](widget.)
+363,I can't see column,Troubleshoot,['column'],['attribute'],i can't see [column](attribute)
+364,I can't see row,Troubleshoot,['row'],['attribute'],i can't see [row](attribute)
+365,I can't see subscription,Troubleshoot,['subscription'],['inventory'],i can't see [subscription](inventory)
+366,I can't see custom fields,Troubleshoot,['custom fields'],['widget'],i can't see [custom fields](widget)
+367,I can't see summary counter,Troubleshoot,['summary counter'],['widget'],i can't see [summary counter](widget)
+368,I can't see settings,Troubleshoot,['settings'],['option'],i can't see [settings](option)
+369,I can't see sim,Troubleshoot,['sim'],['inventory'],i can't see [sim](inventory)
+370,I can't see filter,Troubleshoot,['filter'],['widget'],i can't see [filter](widget)
+371,I can't see action,Troubleshoot,['action'],['widget'],i can't see [action](widget)
+372,I can't see imsi,Troubleshoot,['imsi'],['identifier'],i can't see [imsi](identifier)
+373,I can't see msisdn,Troubleshoot,['msisdn'],['identifier'],i can't see [msisdn](identifier)
+374,I can't see imei,Troubleshoot,['imei'],['identifier'],i can't see [imei](identifier)
+375,I can't see iccid,Troubleshoot,['iccid'],['identifier'],i can't see [iccid](identifier)
+376,I can't see portal,Troubleshoot,['portal'],['page'],i can't see [portal](page)
+377,I can't see state,Troubleshoot,['state'],['option'],i can't see [state](option)
+378,I can't see announcement,Troubleshoot,['announcement'],['page'],i can't see [announcement](page)
+379,I can't see euicc,Troubleshoot,['euicc'],['inventory'],i can't see [euicc](inventory)
+380,I can't see plan,Troubleshoot,['plan'],['option'],i can't see [plan](option)

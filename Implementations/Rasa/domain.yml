@@ -1,0 +1,55 @@
+version: '2.0'
+intents:
+- learn
+- troubleshoot
+- affirm
+- bot_challenge
+- deny
+- fetch
+- goodbye
+- greet
+- information_Comparison
+- information_seek
+- mood_great
+- mood_unhappy
+responses:
+  utter_greet:
+  - text: Hey! How are you?
+  - text: Hello there! How can I help you?
+#  buttons: 
+#  - title: "Feeling great"
+#    payload: "/mood_great"
+#  - title: "Feeling Sad"
+#    payload: "/mood_unhappy"
+  utter_cheer_up:
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Bye
+  utter_iamabot:
+  - text: I am a bot, powered by IOTA.
+  utter_changeprocedure:
+  - text: Here is the procedure (https://al4b.cpi.ericsson.net/elex?LI=EN/LZN7610009/1*&FN=42_1553-HRC105050_1Uen.*.html&HT=gzc1594901307879)
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+entities:
+- widget
+- inventory
+- attribute
+- option
+- page
+- connection
+- identifier
+- stat
+- time
+- location
+- other
+actions:
+- utter_changeprocedure
+- utter_greet
+- action_CPI_link

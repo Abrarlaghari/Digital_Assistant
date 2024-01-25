@@ -1,0 +1,315 @@
+Questions,Intent
+Can I hide the custom counters?,Learn
+What is the acronym ICCID?,information_seek
+What's the difference between sim and euicc?,information_Comparison
+Can I see more rows in a view?,Learn
+How do I select the columns I want to display?,Learn
+How do you differentiate between summary counters and column filters?,information_Comparison
+How do you define summary counters?,Learn
+Why do I need to select more than one row?,information_seek
+How do I list billing states?,fetch
+How can I define summary counters?,Learn
+How can I save a view?,Learn
+Bring me location with the largest traffic.,fetch
+What are some ways to define custom fields?,Learn
+What is the best location with the most traffic?,fetch
+Do you have usage data?,fetch
+How do you save your settings?,Learn
+How do I log out?,Learn
+How do I hide the custom counters?,Learn
+What do you think of counters?,information_seek
+What is the best way to use custom fields?,Learn
+I can't see subscription,Troubleshoot
+What's a summary counter?,information_seek
+How should I generate invoices?,fetch
+What is filter?,information_seek
+How do I disable network connectivity?,Learn
+What do you think about counters?,information_seek
+Why does portal slow?,Troubleshoot
+Why is network connectivity enabled?,information_seek
+What is the report?,fetch
+I can't see network connectivity,Troubleshoot
+I can't see filter,Troubleshoot
+How do I see more rows in one view?,Learn
+How do I log out of my account?,Learn
+What is the cause of error messages?,Troubleshoot
+How do I fetch traffic generated last 30 days?,fetch
+I see a lock why?,information_seek
+Why are there error messages?,Troubleshoot
+Why is there a lock/padlock in Connectivity lock column?,information_seek
+What is the difference between network connectivity enabled and disabled?,information_Comparison
+How do I fetch subscriptions created in last 30 days?,fetch
+Will the portal remember your selection if I apply a filter?,information_seek
+what is announcements,information_seek
+How do I create custom fields?,Learn
+What is the difference between billing state active and inactive?,information_Comparison
+What are counters?,information_seek
+What does announcements mean?,information_seek
+What are the differences between sim and euicc?,information_Comparison
+Why NW connectivity enabled is enabled,Troubleshoot
+How do I select which columns to display?,Learn
+Tell me about each action.,information_seek
+What's a connectivity lock?,information_seek
+What is the difference between network connectivity and billing states?,information_Comparison
+How much would it cost to order a SIM?,information_seek
+I can't see iccid,Troubleshoot
+How do I create summary counters?,Learn
+What is summary counter?,information_seek
+What do I do on this page?,information_seek
+What are SIMs?,information_seek
+How can I select which columns to display?,Learn
+How do I logout?,Learn
+How can I personalize my view?,Learn
+How can network connectivity be disabled?,Learn
+why error messages,Troubleshoot
+How can I add a filter?,Learn
+What is the best way to save settings?,Learn
+What is the difference between network connectivity and connectivity lock?,information_Comparison
+Is it possible to select disabled rows?,Learn
+How do counters work?,information_seek
+How can I fetch my subscription created in last 30 days?,fetch
+I can't see view,Troubleshoot
+Tell me about every action.,information_seek
+What do you think of filters?,information_seek
+"What does ""in session"" mean?",information_seek
+Where is state change?,Learn
+How can you use summary counters?,Learn
+How do you order sim?,Learn
+How do I add custom fields?,Learn
+What is network connectivity enabled?,information_seek
+What is the difference between billing states and network states?,information_Comparison
+I can't see billing state,Troubleshoot
+What is the meaning of network connectivity?,information_seek
+What is the meaning of announcements?,information_seek
+How can I see how many subscriptions have had traffic today?,Learn
+Why do I have to select more than one row?,information_seek
+What is the difference between billing and network?,information_Comparison
+How can I create custom fields?,Learn
+List billing states please,fetch
+How much does it cost to get a SIM card?,information_seek
+What is sim?,information_seek
+What's the difference between network and billing states?,information_Comparison
+How can I apply filter?,Learn
+What's network connectivity?,information_seek
+What are the different types of SIMs?,information_seek
+euicc order,Learn
+How do I create custom fields?,Learn
+How can I see which subscriptions have had traffic today?,Learn
+What are the different types of SIM cards?,information_seek
+What do you mean by counters?,information_seek
+What are different types of SIMs?,information_seek
+What do you mean by network connectivity?,information_seek
+Order sim!,Learn
+How can I get more than 10000 imsi?,Learn
+What is the reason behind error messages?,Troubleshoot
+Why do I see a lock?,information_seek
+Why do I have to select more than 1 row?,information_seek
+I can't see connectivity lock,Troubleshoot
+What is the difference between sim and euicc?,information_Comparison
+How can I know which subscriptions have had traffic today?,Learn
+Can I use custom fields?,Learn
+Will the portal remember my selection if I apply a filter?,information_seek
+I can't see sim,Troubleshoot
+What does IMEI stand for?,information_seek
+What is an ICCID?,information_seek
+What does in session mean?,information_seek
+I can't see announcement,Troubleshoot
+What is MSISDN? What does it mean?,information_seek
+How can I see if my subscription is misbehaving?,Learn
+I can't see euicc,Troubleshoot
+What are summary counters and column filters?,information_Comparison
+Can you compare imei and msisdn?,information_Comparison
+How do I fetch the subscription created in last 30 days?,fetch
+I can't see portal,Troubleshoot
+Why did I see a lock?,information_seek
+Why are error messages displayed?,Troubleshoot
+What is a padlock?,information_seek
+How can I select which columns to display?,Learn
+What can I do from this page?,information_seek
+How do I apply a filter?,Learn
+I can't see summary counter,Troubleshoot
+I want to add/apply/create filter?,Learn
+What is the difference between column filter and summary counter?,information_Comparison
+How much does it cost to get a SIM?,information_seek
+Why is the portal so slow?,Troubleshoot
+How do I create a filter?,Learn
+How do I save my settings?,Learn
+What's a custom field?,information_seek
+What is a counter?,information_seek
+Euicc order.,information_seek
+Why is portal slow?,Troubleshoot
+How can I select the columns to display?,Learn
+Can I see multiple rows in one view?,Learn
+What is IMEI? What does it mean?,information_seek
+How can I generate invoices?,fetch
+What does connectivity lock mean?,information_seek
+How can I see which subscription has had traffic today?,Learn
+What are the billing states active and inactive?,information_Comparison
+How do I hide my custom counters?,Learn
+Can I select disabled rows?,Learn
+How do you add filters?,Learn
+What are custom fields?,information_seek
+How do I change the name of my plan?,Learn
+How to add/apply/create filters?,Learn
+Can you give me usage data?,fetch
+What is network connectivity?,information_seek
+How do I create filters?,Learn
+What does in-session mean?,information_seek
+Where is a state change happening?,Learn
+What is a SIM?,information_seek
+How do I use summary counters?,Learn
+How can I see which subscriptions have had traffic today?,Learn
+logout,Learn
+What is IMSI,information_seek
+How can I save my view?,Learn
+How do we define custom fields?,Learn
+I can't see plan,Troubleshoot
+Can you show me the report?,fetch
+What is IMEI?,information_seek
+What's the difference between billing states and network states?,information_Comparison
+How much would it cost to order SIM?,information_seek
+How do I order sim?,Learn
+How can I select disabled rows?,Learn
+What billing states do you want to list?,fetch
+What can I do with this page?,information_seek
+How can I add/create a filter?,Learn
+I can't see settings,Troubleshoot
+What do you think about table?,information_seek
+How do I apply filters?,Learn
+What is announcements about?,information_seek
+I can't see msisdn,Troubleshoot
+What does in-session mean?,information_seek
+What is the euicc order?,information_seek
+Give me the report.,fetch
+How can I personalize my view?,Learn
+What is IMEI and why?,information_seek
+How can I fetch traffic generated last 30 days?,fetch
+What is the acronym IMSI?,information_seek
+Can I save a view?,Learn
+How do I customize my view?,Learn
+How do I add/apply/create a filter?,Learn
+What IMSI stands for?,information_seek
+What does locking mean?,information_seek
+What is connectivity lock?,information_seek
+Why portal slow,Troubleshoot
+Why do I get error messages?,Troubleshoot
+Why should I select more than 1 row?,information_seek
+What should I know about counters?,information_seek
+Show me the report.,fetch
+Tell me about each action,information_seek
+Why is NW connectivity enabled disabled?,Troubleshoot
+What does the ICCID stand for?,information_seek
+What are error messages?,Troubleshoot
+How can I add filters?,Learn
+What are summary counters?,Learn
+What is the traffic generated in last 30 days?,fetch
+How can I define custom fields?,Learn
+"What does ""lock"" mean?",information_seek
+What are custom fields and why?,information_seek
+How can I see if a subscription is misbehaving?,Learn
+What is the difference between msisdn and imei?,information_Comparison
+Can I customize my view?,Learn
+"What is the difference between rows, which one should I choose?",information_seek
+Where can I get usage data?,fetch
+What does network connectivity mean?,information_seek
+What is a connectivity lock?,information_seek
+What are custom fields?,information_seek
+How do I define summary counter?,Learn
+How can I apply a filter?,Learn
+What is the comparison between imei and msisdn?,information_Comparison
+I can't see row,Troubleshoot
+What is MSISDN?,information_seek
+How do I add/create a filter?,Learn
+How do I fetch subscription created in last 30 days?,fetch
+How can I select disabled rows as well?,Learn
+Order sim?,Learn
+What are tables?,information_seek
+What does IMSI stand for?,information_seek
+How do I add/apply/create filters?,Learn
+How do I generate an invoice?,fetch
+How can I logout?,Learn
+How do I distinguish between billing state active and inactive?,information_Comparison
+How does one generate invoices?,fetch
+What is a lock/padlock?,information_seek
+Why is NW connectivity disabled and vice versa?,Troubleshoot
+How do I select more than 10000 imsi?,Learn
+Can you tell me about counters?,information_seek
+How can I use summary counter?,Learn
+How to add/apply/create a filter?,Learn
+What does MSISDN stand for?,information_seek
+What is filtering?,information_seek
+What is the lock/padlock in Connectivity lock column?,information_seek
+euicc order?,information_seek
+How do I personalize my view?,Learn
+Why should I select more than 1 row?,information_seek
+What does network connectivity mean?,information_seek
+What is billing state active and inactive?,information_Comparison
+There is a lock/padlock in Connectivity lock column,information_seek
+How can I disable network connectivity?,Learn
+What do you mean by table?,information_seek
+state change where??,Learn
+What is the reason for error messages?,Troubleshoot
+I can't see custom fields,Troubleshoot
+What is in session mean?,information_seek
+What are some billing states?,fetch
+How can I compare imei and msisdn?,information_Comparison
+"What is the difference between the rows, which one should I choose?",information_Comparison
+How can I change my plan name?,Learn
+Why do error messages appear?,Troubleshoot
+What is a state change?,information_seek
+How can I see if a subscription is misbehaving?,Learn
+"I saw a lock, why?",information_seek
+What does an in-session mean?,information_seek
+fetch the subscription created in last 30 days.,fetch
+How do I select more than 10000 imsi cards?,Learn
+How can I save my settings?,Learn
+Why should I select more than one row?,information_seek
+How can I distinguish between billing state active and inactive?,information_Comparison
+What is a custom field?,information_seek
+What is a lockpadlock?,information_seek
+How do I differentiate between summary counters and column filters?,information_Comparison
+I see a lock and why?,information_seek
+What is state change?,Learn
+Can I select disabled rows as well?,Learn
+I can't see column,Troubleshoot
+"I see a lock, why?",information_seek
+What is the best way to save a view?,Learn
+What do you think about filters?,information_seek
+Can you differentiate between network connectivity enabled and disabled?,information_Comparison
+What are filters?,information_seek
+How do I save settings on my computer?,Learn
+Why NW connectivity enabled is disabled and vice versa?,Troubleshoot
+What is this lock/padlock?,information_seek
+How do I change my plan name?,Learn
+Why is my portal slow?,Troubleshoot
+What are announcements?,information_seek
+Can I save my view?,Learn
+"I see a lock, why?",information_seek
+How do you use summary counters?,Learn
+What is the best way to apply filter?,Learn
+Can you tell me about filters?,information_seek
+How do I get traffic generated last 30 days?,fetch
+How can I add/apply/create filter?,Learn
+How do I get usage data?,fetch
+What billing states do you have?,fetch
+Euicc order?,information_seek
+There is a lock/padlock in Connectivity lock column.,information_seek
+What are summary counters?,information_seek
+How do I know if my subscription is misbehaving?,Learn
+What do summary counters stand for?,information_seek
+I can't see network in-session,Troubleshoot
+How can I customize a view?,Learn
+I can't see imsi,Troubleshoot
+What is in session?,information_seek
+Why should I choose more than 1 row?,information_seek
+What is an IMSI?,information_seek
+Can I see rows in one view?,Learn
+Can we distinguish between network connectivity enabled and disabled?,information_Comparison
+Can I save my settings?,Learn
+What filters do you use?,information_seek
+How is network connectivity enabled?,information_seek
+How do I hide custom counters?,Learn
+How do you select more than 10000 imsi?,Learn
+Will the portal remember my selection when I apply a filter?,information_seek
+Is billing state active or inactive?,information_Comparison
+How do I customize a view?,Learn

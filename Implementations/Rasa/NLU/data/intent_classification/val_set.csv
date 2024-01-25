@@ -1,0 +1,47 @@
+Questions,Intent
+What is the best way to add filters?,Learn
+How can I check if a subscription is misbehaving?,Learn
+What is IMSI?,information_seek
+What should I do to logout?,Learn
+What is the usage data?,fetch
+Tell me about filters.,information_seek
+Can I hide the custom counters?,Learn
+Why is NW connectivity enabled?,Troubleshoot
+Can I customize my view?,Learn
+What is the difference between network and billing states?,information_Comparison
+Tell me about filters,information_seek
+How can I use summary counters?,Learn
+How do I add/apply filters?,Learn
+What's network connectivity disabled?,information_seek
+Could you show me the report?,fetch
+I want to add/apply/create filters,Learn
+How can I use custom fields?,Learn
+Where can I get the most traffic?,fetch
+What is network connectivity enabled for?,information_seek
+What does the IMEI stand for?,information_seek
+How much does it cost to buy a SIM?,information_seek
+How can I get usage data?,fetch
+How can I see what subscriptions have had traffic today?,Learn
+Logout!,Learn
+Why is network connectivity disabled?,information_Comparison
+Is network connectivity disabled?,information_seek
+What is the best thing to do on this page?,information_seek
+How do I customize my views?,Learn
+How do I add filters?,Learn
+What can I do in this page?,information_seek
+What are the different types of SIMs?,information_seek
+Is network connectivity enabled?,information_seek
+Is NW connectivity enabled?,Troubleshoot
+What is a lock?,information_seek
+What is the billing state inactive and active?,information_Comparison
+What should I do on this page?,information_seek
+What is MSISDN,information_seek
+What is IMEI,information_seek
+What are summary counters?,information_seek
+How do I differentiate between network connectivity enabled and disabled?,information_Comparison
+List billing states please,fetch
+Can I see more rows in one view?,Learn
+How can I add custom fields?,Learn
+I can't see state,Troubleshoot
+How do I create filters?,Learn
+What is network connectivity disabled?,information_seek
